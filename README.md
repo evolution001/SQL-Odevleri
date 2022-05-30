@@ -1,2 +1,2 @@
-# SQL-devleri
-SQL Ödevleri
+# SQL-odevleri
+PatikaDev SQL Course Tasks
