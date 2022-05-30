@@ -1,0 +1,2 @@
+# SQL-devleri
+SQL Ödevleri
